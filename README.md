@@ -1,0 +1,1 @@
+# Angular-CSP-Nonce
